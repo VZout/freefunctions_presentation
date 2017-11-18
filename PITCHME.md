@@ -44,7 +44,6 @@
 
 @title[WebBrowser Code Example]
 
-<div>
 ```cpp
 class WebBrowser {
 public:
@@ -61,8 +60,8 @@ void ClearEverything() {
 	RemoveCookies();
 }
 ```
-</div>
-<div>
+
+```cpp
 class WebBrowser {
 public:
 	void ClearCache();
@@ -77,8 +76,7 @@ public:
 private:
 	// ...
 };
-
-</div>
+```
 
 ---
 
