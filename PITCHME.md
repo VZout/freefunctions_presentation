@@ -1,11 +1,7 @@
 @title[Free Your Functions!]
 
-# Git<span class="gold">Pitch</span>
-
-#### Free Your Functions!
-<br>
-<br>
-<span class="primary"><strong>Viktor Zoutman</strong></span> - 2016.12.07
+# Free Your Functions!
+<span class="primary"><strong>Viktor Zoutman</strong></span> - 2017.11.16
 
 ---
 
