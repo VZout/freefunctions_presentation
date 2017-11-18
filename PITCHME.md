@@ -61,6 +61,23 @@ private:
 };
 </pre>
 
+<pre>
+class WebBrowser {
+public:
+	void ClearCache();
+	void ClearHistory();
+	void RemoveCookies();
+
+	void ClearEverything() {
+		ClearCache();
+		ClearHistory();
+		RemoveCookies();
+	}
+private:
+	// ...
+};
+</pre>
+
 ---
 
 @title[Step 2. Git-Commit]
