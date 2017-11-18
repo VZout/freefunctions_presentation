@@ -1,11 +1,11 @@
-@title[Introduction]
+@title[Free Your Functions!]
 
 # Git<span class="gold">Pitch</span>
 
-#### Markdown Presentations For Everyone on Git.*
+#### Free Your Functions!
 <br>
 <br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span class="primary"><strong>Viktor Zoutman</strong></span> - 2016.12.07
 
 ---
 
