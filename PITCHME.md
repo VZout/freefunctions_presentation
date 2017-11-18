@@ -1,7 +1,14 @@
-@title[Free Your Functions!]
+@title[Introduction]
 
 # Free Your Functions!
-<span class="primary"><strong>Viktor Zoutman</strong></span> - 2017.11.16
+<span class="primary"><strong>Viktor Zoutman</strong></span>, November 20 2017
+
+---
+
+@title[Preface]
+
+# Free Your Functions!
+<span class="primary"><strong>Klaus Iglberger</strong></span>, Meeting C++, November 10 2017
 
 ---
 
