@@ -12,6 +12,18 @@
 
 ---
 
+@title[Good stuff]
+
+* Encapsulation
+* Abstraction / Polymorphism
+* Cohesion
+* Flexibility / Extensibility
+* Reuse / Generality
+* Testability
+* Performance
+
+---
+
 @title[PITCHME.md]
 
 #### GitPitch turns <span class="gold">PITCHME.md</span> into
