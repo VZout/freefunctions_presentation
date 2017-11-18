@@ -44,8 +44,7 @@
 
 @title[WebBrowser Code Example]
 
-```cpp
-@[4,5]
+<pre>
 class WebBrowser {
 public:
 	void ClearCache();
@@ -60,7 +59,7 @@ public:
 private:
 	// ...
 };
-```
+</pre>
 
 ---
 
