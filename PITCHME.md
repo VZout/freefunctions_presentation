@@ -45,6 +45,7 @@
 @title[WebBrowser Code Example]
 
 ```cpp
+@[2-10]
 class WebBrowser {
 public:
 	void ClearCache();
