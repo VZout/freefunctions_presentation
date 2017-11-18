@@ -44,7 +44,7 @@
 
 @title[WebBrowser Code Example]
 
-<code>
+<pre>
 class WebBrowser {
 public:
 	void ClearCache();
@@ -59,7 +59,7 @@ public:
 private:
 	// ...
 };
-</code>
+</pre>
 
 ---
 
