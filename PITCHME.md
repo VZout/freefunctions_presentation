@@ -7,8 +7,8 @@
 
 @title[Preface]
 
-# Free Your Functions!
-<span class="primary"><strong>Klaus Iglberger</strong></span>, Meeting C++, November 10 2017
+## Klaus Iglberger
+#### Meeting C++, November 10 2017
 
 ---
 
