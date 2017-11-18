@@ -50,23 +50,6 @@ public:
 	void ClearCache();
 	void ClearHistory();
 	void RemoveCookies();
-private:
-	// ...
-};
-
-void ClearEverything() {
-	ClearCache();
-	ClearHistory();
-	RemoveCookies();
-}
-```
-
-```cpp
-class WebBrowser {
-public:
-	void ClearCache();
-	void ClearHistory();
-	void RemoveCookies();
 
 	void ClearEverything() {
 		ClearCache();
@@ -76,6 +59,25 @@ public:
 private:
 	// ...
 };
+```
+
+@[11-15]
+```cpp
+class WebBrowser {
+public:
+	void ClearCache();
+	void ClearHistory();
+	void RemoveCookies();
+
+private:
+	// ...
+};
+
+void ClearEverything() {
+	ClearCache();
+	ClearHistory();
+	RemoveCookies();
+}
 ```
 
 ---
