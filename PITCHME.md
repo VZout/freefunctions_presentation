@@ -61,7 +61,7 @@ private:
 };
 </pre>
 
-<pre>
+<pre style="float: left;">
 class WebBrowser {
 public:
 	void ClearCache();
