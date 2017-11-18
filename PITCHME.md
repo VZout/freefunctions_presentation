@@ -15,12 +15,12 @@
 @title[Good stuff]
 
 * Encapsulation
-* Abstraction / Polymorphism
-* Cohesion
-* Flexibility / Extensibility
-* Reuse / Generality
-* Testability
-* Performance
+* Abstraction / Polymorphism |
+* Cohesion |
+* Flexibility / Extensibility |
+* Reuse / Generality |
+* Testability |
+* Performance |
 
 ---
 
