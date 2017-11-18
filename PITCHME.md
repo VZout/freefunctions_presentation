@@ -44,7 +44,7 @@
 
 @title[WebBrowser Code Example]
 
-<pre>
+<pre style="display: inline-block; float: left;">
 class WebBrowser {
 public:
 	void ClearCache();
@@ -61,7 +61,7 @@ private:
 };
 </pre>
 
-<pre style="float: left;">
+<pre style="display: inline-block; float: left;">
 class WebBrowser {
 public:
 	void ClearCache();
