@@ -44,7 +44,7 @@
 
 @title[WebBrowser Code Example]
 
-<pre>
+```cpp
 class WebBrowser {
 public:
 	void ClearCache();
@@ -59,8 +59,7 @@ public:
 private:
 	// ...
 };
-</pre>
-
+```
 ---
 
 @title[Step 2. Git-Commit]
