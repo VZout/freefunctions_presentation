@@ -44,24 +44,7 @@
 
 @title[WebBrowser Code Example]
 
-<pre style="display: inline-block; float: left;">
-class WebBrowser {
-public:
-	void ClearCache();
-	void ClearHistory();
-	void RemoveCookies();
-
-	void ClearEverything() {
-		ClearCache();
-		ClearHistory();
-		RemoveCookies();
-	}
-private:
-	// ...
-};
-</pre>
-
-<pre style="width: 100px; display: inline-block; float: left;">
+<pre>
 class WebBrowser {
 public:
 	void ClearCache();
