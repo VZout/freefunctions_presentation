@@ -29,20 +29,37 @@
 ### SOLID
 
 - **S**ingle **R**esponsibility **P**rinciple
-- <strong>O</strong>pen-<strong>C</strong>losed <strong>P</strong>rinciple |
-- <strong>L</strong>iskov <strong>S</strong>ubstitution <strong>P</strong>rinciple |
-- **I**nterface **S**egregation **P**rinciple |
-- **D**ependency **I**nversion **P**rinciple |
+- **O**pen-**C**losed **P**rinciple
+- **L**iskov **S**ubstitution **P**rinciple
+- **I**nterface **S**egregation **P**rinciple
+- **D**ependency **I**nversion **P**rinciple
 
 ---
 
-@title[Step 1. PITCHME.md]
+@title[Encapsulation Title]
 
-### <span class="gold">STEP 1. Create 'PITCHME.md'</span>
-<br>
-#### Create GitPitch slideshow content using GitHub Flavored Markdown in your favorite editor.
-<br>
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
+### Encapsulation
+
+---
+
+@title[WebBrowser Code Example]
+
+```cpp
+class WebBrowser {
+public:
+	void ClearCache();
+	void ClearHistory();
+	void RemoveCookies();
+
+	void ClearEverything() {
+		ClearCache();
+		ClearHistory();
+		RemoveCookies();
+	}
+private:
+	// ...
+};
+```
 
 ---
 
