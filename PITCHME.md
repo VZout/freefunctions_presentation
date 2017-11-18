@@ -60,7 +60,7 @@ public:
 private:
 	// ...
 };
-```
+``` |
 
 @[11-15]
 ```cpp
@@ -79,7 +79,7 @@ void ClearEverything() {
 	ClearHistory();
 	RemoveCookies();
 }
-```
+``` |
 
 ---
 
