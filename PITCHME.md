@@ -29,8 +29,8 @@
 ### SOLID
 
 - **S**ingle **R**esponsibility **P**rinciple
-- **O**pen-**C**losed **P**rinciple |
-- **L**iskov **S**ubstitution **P**rinciple |
+- <strong>O</strong>pen-<strong>C</strong>losed <strong>P</strong>rinciple |
+- <strong>L</strong>iskov <strong>S</strong>ubstitution <strong>P</strong>rinciple |
 - **I**nterface **S**egregation **P**rinciple |
 - **D**ependency **I**nversion **P**rinciple |
 
